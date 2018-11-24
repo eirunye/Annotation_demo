@@ -126,6 +126,7 @@ public class TestAnnotationMain {
 }
 ```
 ![输出2.png](https://upload-images.jianshu.io/upload_images/3012005-037c41da49c434e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
+
 如果我们想给一个类的属性进行赋值可以这么做
 1.创建一个注解如下
 ```java
@@ -207,7 +208,7 @@ public class TestAnnotation1Main {
 }
 ```
 举例
-```
+```java
 @Documented
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
@@ -263,6 +264,7 @@ public class TestMain {
 
 # 总结
 我们在开发中长见的注解如下：
+
 |常用注解|解释|
 |-|-|
 |@Override| 方法重写|
