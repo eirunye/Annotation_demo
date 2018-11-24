@@ -261,6 +261,8 @@ public class TestMain {
 ```
 ![输出3.png](https://upload-images.jianshu.io/upload_images/3012005-5882231d506e3639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
+# 下载
+[**Annotation案例代码下载**](https://github.com/eirunye/Annotation_demo/tree/master)
 
 # 总结
 我们在开发中长见的注解如下：
